@@ -1,7 +1,11 @@
 <h1 align="center">Well hello there 👋, I'm Ifwat</h1>
 <h3 align="center">A new kiddo developer around the block. Jumping into the world of technology</h3>
 
-- :office: Currently farming my xp and grinding for internship :laughing:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=per-wat&label=Stalker&color=43d7f4&style=flat" alt="per-wat" /> </p>
+
+- 🏢 Currently farming my xp and grinding for internship 😆
+
+- 👨‍🎓 I'm also currently learning Next JS by creating [Dwitter](https://github.com/per-wat/Dwitter)
 
 - 📫 How to reach me **ifwat.shamsuddin@gmail.com**
 
